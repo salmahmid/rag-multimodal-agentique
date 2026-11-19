@@ -1,0 +1,12 @@
+pymupdf==2.1
+pillow==13.0.0
+torch==2.15.0
+open-clip-torch==4.2.2
+chromadb==1.5.9
+langchain==1.5.2
+langchain-core==1.8.3
+langchain-ollama==1.1.0
+langgraph==1.2.23
+streamlit==1.67.0
+pytest==9.2.0
+python-dotenv==1.2.4
